@@ -9764,7 +9764,9 @@ p.white {
 @media (max-width: 568px) {
   .title-big {
     font-size: 30px !important;
-    line-height: 40px; } }
+    line-height: 40px; }
+  }
+  /* basil */
 
 @media (max-width: 415px) {
   .title-big {
@@ -10483,6 +10485,7 @@ a.view:hover {
   .w3l-main-slider .banner-info-bg h5 {
     font-size: 32px;
     line-height: 40px; } }
+
 
 @media (max-width: 374px) {
   .w3l-main-slider .banner-info-bg h5 {
